@@ -1,0 +1,6 @@
+Insights from Task 8 Dashboard:
+
+1. Technology category generated the highest sales across all months.
+2. South region outperformed others in Q2.
+3. November 2018 marked the peak in sales overall.
+4. Sales distribution is uneven across product categories.
